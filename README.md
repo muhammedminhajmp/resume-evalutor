@@ -73,7 +73,7 @@ python -m spacy download en_core_web_sm
 1. Start the Flask server by running the following command in your terminal:
 
     ```bash
-    python backend.py
+    python app.py
     ```
 
 2. Open your browser and navigate to `http://127.0.0.1:5000`. The application will load a page where you can upload a PDF resume for evaluation.
